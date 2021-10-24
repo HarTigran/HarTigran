@@ -6,8 +6,6 @@ And I'm active on other social media like [LinkedIn](https://www.linkedin.com/in
 
 ## 📺 Latest YouTube Videos
 
-![YouTube Channel Subscribers]()
-
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 
 <!-- YOUTUBE-VIDEOS-LIST:END -->
