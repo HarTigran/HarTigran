@@ -2,7 +2,6 @@ My name is Tigran and I am currently pursuing my master's degree in Data Science
 
 And I'm active on other social media like [LinkedIn](https://www.linkedin.com/in/tigran-harutyunyan/).
 
-- You can find my [personal website](https://example.com) interesting, and you can reach me out to EMAIL.
 
 
 ## 📺 Latest YouTube Videos
