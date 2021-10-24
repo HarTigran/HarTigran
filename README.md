@@ -7,7 +7,7 @@ And I'm active on other social media like [LinkedIn](https://www.linkedin.com/in
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-
+- [Automated Scarpy with Azure PostGres](https://www.youtube.com/watch?v=mmXU6Vih7-8)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 <!--
