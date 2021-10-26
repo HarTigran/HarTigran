@@ -1,4 +1,4 @@
-My name is Tigran and I am currently pursuing my master's degree in Data Science at Duke University. It took me over 8 different positions, three degrees and over 9 years of work before I got into the world of data science.
+My name is Tigran and I am currently pursuing master's degree in Data Science at Duke University. It took me over 8 different positions, three degrees and over 9 years of work before I got into the world of data science.
 
 And I'm active on other social media like [LinkedIn](https://www.linkedin.com/in/tigran-harutyunyan/).
 
