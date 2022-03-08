@@ -7,6 +7,7 @@ And I'm active on other social media like [LinkedIn](https://www.linkedin.com/in
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Azure Open-dataset with Databricks](https://www.youtube.com/watch?v=JJFT_pubOtg)
 - [AWS ECS CI CD Microservices](https://www.youtube.com/watch?v=slFIDingTnM)
 - [Automated Scarpy with Azure PostGres](https://www.youtube.com/watch?v=mmXU6Vih7-8)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
